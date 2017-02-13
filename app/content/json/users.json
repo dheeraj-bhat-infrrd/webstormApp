@@ -1,0 +1,48 @@
+[
+  {
+    "username" : "bhatdheeraj",
+    "password" : "abcd1234",
+    "name" : "Dheeraj Bhat",
+    "sex" : "male",
+    "age" : 23,
+    "address" : "Bangalore",
+    "active" : true
+  },
+
+  {
+    "username" : "sanjumadeh",
+    "password" : "abcd1234",
+    "name" : "Sanjana",
+    "sex" : "female",
+    "age" : 22,
+    "address" : "Bangalore",
+    "active" : true
+  },
+  {
+    "username" : "dheerajbhat",
+    "password" : "abcd12345",
+    "name" : "Dheeraj D Bhat",
+    "sex" : "male",
+    "age" : 22,
+    "address" : "Bangalore",
+    "active" : false
+  },
+  {
+    "username" : "varad",
+    "password" : "abcd1234",
+    "name" : "Varadaraja",
+    "sex" : "male",
+    "age" : 22,
+    "address" : "Mangalore",
+    "active" : true
+  },
+  {
+    "username" : "veeku",
+    "password" : "abcd1234",
+    "name" : "Veekshita",
+    "sex" : "female",
+    "age" : 21,
+    "address" : "Mangalore",
+    "active" : true
+  }
+]
